@@ -1029,6 +1029,10 @@ section
 	content: '';
 	border-radius: 50%;
 }
+.tab_panel_bullets_size
+{
+	font-size: 2rem;
+}
 .tab_panel_faq
 {
 	margin-top: 51px;
